@@ -1,0 +1,12 @@
+Dependences: ImageMagick
+Can be downloaded from here: https://imagemagick.org/script/download.php#gsc.tab=0  (ImageMagick-7.1.2-12-Q16-HDRI-x64-dll.exe is fine)
+
+1 - Add this script under TED clubs folder, for example: C:\Users\youruser\Downloads\OF\WEPES\TED Clubs
+2 - Double click to "reducir.bat"  (Or if you want you just can do: SHIFT+right click over "TED Clubs" to open PowerShell windows and then run the script: .\reducir.bat)
+3 - Wait until all photos are converted, you should be seeing something like these:
+      Buscando imagenes de 2048x2048 para reducir al 50%...
+          [REDUCIENDO] "atlanta_1_0_home.png"
+          [REDUCIENDO] "atlanta_2_0_away.png"
+          [REDUCIENDO] "atlanta_4_1_goalkeeper.png"
+                                    
+4 - Once ended you can check the size for all the kits
